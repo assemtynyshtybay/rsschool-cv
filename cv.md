@@ -9,13 +9,11 @@
 ## Contact Information:
 
 > #### Phone: +7 776 205 84 70
->
 > #### E-mail: asem201000@gmail.com
 >
 > #### Location: Almaty, Kazakhstan
 
 > #### Telegram: @otaku_dor
->
 > #### Discord: @Assem (@assemtynyshtybay)
 
 [LinkedIn profile](https://www.linkedin.com/in/assem-tynyshtybay-1840b6207)
