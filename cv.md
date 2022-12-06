@@ -62,6 +62,9 @@ function countSheeps(arrayOfSheep) {
 >   **[Project](https://github.com/assemtynyshtybay/job-qarastyr)**
 
 ## Languages:
-* English
-  
- 
+> * English\
+>   Pre-Intermediate
+> * Kazakh\
+>   Native
+> * Russian\
+>   Advanced
