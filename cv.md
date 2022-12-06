@@ -28,44 +28,40 @@
 
 ## Skills:
 
-- HTML, CSS
-- React Js
-- Python
-- OOP
+* HTML, CSS
+* React Js
+* Python
+* OOP
 
 ## Code Examples:
 
 ```javascript
 function countSheeps(arrayOfSheep) {
   // TODO May the force be with you
-  var sum = 0;
-  for (var i = 0; i < arrayOfSheep.length; i++) {
-    if (arrayOfSheep[i] === true) {
+  var sum=0;
+  for(var i=0;i<arrayOfSheep.length;i++){
+    if(arrayOfSheep[i]===true){
       sum++;
+      }
     }
-  }
-  return sum;
+   return sum;
 }
 ```
 
 ## Experience:
 
-> - React JS trainee\
->   **[Project](https://github.com/assemtynyshtybay/Diploma)**
+> * React JS trainee
+>   **[Project](https://github.com/assemtynyshtybay/Diploma)
 
 ## Education:
 
-> - Bachelor degree of Information System specialty\
->   **[Diploma Project](https://github.com/assemtynyshtybay/Diploma)**
+> * Bachelor degree of Information System specialty
+>   **[Diploma Project](https://github.com/assemtynyshtybay/Diploma)
 
-> - React JS Course\
->   **[Project](https://github.com/assemtynyshtybay/job-qarastyr)**
+> * React JS Course
+>   **[Project](https://github.com/assemtynyshtybay/job-qarastyr)
 
 ## Languages:
-
-> - English\
->   Pre-Intermediate
-> - Kazakh\
->   Native
-> - Russian\
->   Advanced
+* English
+  
+ 
